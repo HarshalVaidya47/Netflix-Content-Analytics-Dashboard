@@ -1,4 +1,4 @@
-# Power-Bi-Projects
+# Power-Bi-Projects - Netflix
 Power BI Dashboard Projects Done By Me
 
 🚀 Excited to share my latest **Power BI project – Netflix Content Analytics Dashboard**!
